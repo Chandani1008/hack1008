@@ -7,5 +7,5 @@ print(name.center(len(name)+3,"*"))
 
 print(name.center(len(name)+4,"*"))
 
-print(name.center(len(name)+8,"#"))
+print(name.center(len(name)+8,"*"))
 
