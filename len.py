@@ -1,7 +1,7 @@
-name="chaman kumar"
-length=len(name)
+nam="chandani kumar"
+length=len(nam)
 print(length)
 
-print(len(name))
+print(len(nam))
 
-print(len("Chaman "))
+print(len("Chandani "))
